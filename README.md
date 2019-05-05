@@ -7,4 +7,4 @@ This projet was made In 5 hours And I also Created a youtube video explaining ho
 [![](https://i.imgur.com/W7O2qY6.jpg)](https://youtu.be/yr1xHeHdhcs)
 
 ##### Preview from the project
-![gif](https://media.giphy.com/media/J4UfdVoSFQPpMk2bl8/giphy.gif)
+![](https://media.giphy.com/media/J4UfdVoSFQPpMk2bl8/giphy.gif)
